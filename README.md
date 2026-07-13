@@ -8,7 +8,7 @@ This repository is a public record of my journey as I prepare for placements. I'
 - 💻 DSA problems solved
 - 🗄️ SQL & Database concepts
 - ⚙️ Core Computer Science (DBMS, OS, CN, OOP)
-- 📊 Notes and case studies
+- 📊 Notes and Case Studies
 - 🚀 Personal projects
 - 📝 Interview preparation
 
