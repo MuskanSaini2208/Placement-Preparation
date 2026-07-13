@@ -1,4 +1,4 @@
-# Placement-Prepration
+# Placement-Preparation
 This repository is a public record of my journey as I prepare for placements. I'll be documenting everything I learn, practice, and build throughout my preparation.
 
 
